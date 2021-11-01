@@ -1,24 +1,24 @@
 # IPL-Analysis-
 Visualizations were created using PowerBI.
 
-Most Winning Team did fielding first.
+1. Most Winning Team did fielding first.
 
-Most common winning mode was wickets.
+2. Most common winning mode was wickets.
 
-Most matches were played on Eden Gardens Ground, Mumbai (77).
+3. Most matches were played on Eden Gardens Ground, Mumbai (77).
 
-Mumbai Indian Won the most no. of matches (109).
+4. Mumbai Indian Won the most no. of matches (109).
 
-Maximum Runs were made by Virat Kohli (5246).
+5. Maximum Runs were made by Virat Kohli (5246).
 
-Maximum 4's by Shikhar Dhawan (526).
+6. Maximum 4's by Shikhar Dhawan (526).
 
-Maximum 6's by CH Gayle (327).
+7. Maximum 6's by CH Gayle (327).
 
-Best average is of Ab De Villiers (42.442).
+8. Best average is of Ab De Villiers (42.442).
 
-56% of Players are Indians (264) and the least from Netherlands.
+9. 56% of Players are Indians (264) and the least from Netherlands.
 
-Chirs Gayle got most no of Man Of The Match Awards (21).
+10. Chirs Gayle got most no of Man Of The Match Awards (21).
 
-Most bowlers took wicket by caught and out.
+11. Most bowlers took wicket by caught and out.
